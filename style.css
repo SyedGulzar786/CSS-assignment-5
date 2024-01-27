@@ -1,0 +1,22 @@
+.prnt-footer {background-color: black; display: flex; justify-content: center; }
+.footer { background-color: black;   }
+.first-content { display:flex; }
+* { color: white; }
+.dcr {  text-align: left; margin-top: 10px; word-spacing: 2px; }
+.p-2 { text-decoration: none; color: white;  }
+.dct { margin-top: 0px !important; }
+.c-1 { margin-top: 30px ; }
+.c-2 { margin-top: 40px; }
+.c-2 li { margin-bottom: 10px; list-style-type: none;}
+.diffr { margin-top: 130px !important; }
+.icons { display: flex; }
+.dft { position: relative; bottom: 80px; left: 20px; }
+.vito { width: 30px; height: 30px; margin-right: 10px; }
+.main-icons { display: flex; }
+.icons { width: 30px; background-color: aliceblue; position: relative; bottom: 60px; left: 20px; margin-right: 10px; border-radius: 4px; }
+.second-content > ul { display: flex; }
+li { list-style-type: none; word-spacing: 2px; }
+.second-content > ul > li { margin-right: 22px; }
+.second-content { padding: 10px 0px; }
+.third-content { margin-bottom: 30px; }
+.nasa-img { width: 90px; margin-top: 50px; }
