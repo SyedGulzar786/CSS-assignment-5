@@ -66,4 +66,5 @@ li { list-style-type: none; word-spacing: 2px; }
 .milo { font-size:20px; }
 .milo-one { text-decoration: none; }
 .header { background-color: black; }
-.black { background-color: black; }
+.black { background-color: black; box-shadow: 0px !important; border: 1px solid rgba(255, 255, 255, 0.3) !important; width: 200px; padding-left: 4px !important;}
+.side-plz { margin-left: 30px; }
