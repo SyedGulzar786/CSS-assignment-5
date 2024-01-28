@@ -62,9 +62,22 @@ li { list-style-type: none; word-spacing: 2px; }
         display: block;
       }
 .header-div { background-color: black; text-transform: capitalize !important; } 
+.header { text-transform: capitalize;}
 .dropbtn { text-transform: capitalize; }
 .milo { font-size:20px; }
 .milo-one { text-decoration: none; }
 .header { background-color: black; }
 .black { background-color: black; box-shadow: 0px !important; border: 1px solid rgba(255, 255, 255, 0.3) !important; width: 200px; padding-left: 4px !important;}
 .side-plz { margin-left: 30px; }
+.bg-img { background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/clps-im-1-nova-c-render-moon.png?resize=2000,1125); width: 100%; height: 730px; } 
+.black-ground { width: 100%; height: 730px; background-color: black; position: absolute; opacity: 0.6;  }
+.bg-text { color: white; text-align: ;eft; position: absolute; top: 250px; left: 80px; width: 800px;  }  
+.big-bang { font-size: 80px; font-weight: 700; }
+.small-bang { font-size: 17px; font-weight: 400 }
+.lunka { margin-top: 20px !important; color: white; text-decoration: none; font-size: 26px; background-color: #af2e29 ; padding: 10px 20px; border-radius: 4px; border: 1px solid #af2e29; }
+.bg-threat-one {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 80px; width: 20%px; }
+.bg-threat-two {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 480px; width: 20%; }
+.bg-threat-three {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 880px; width: 20%; }
+.navigaticon { height: 20px; width: 20px; color: #af2e29 !important; background-color: #af2e29; border-radius: 50%; position: absolute; }
+.rowdy > p { font-weight: 400; font-size: 16px;  }
+.second-header > img { width: 60px; height: 60px; }
