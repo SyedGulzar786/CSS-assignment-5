@@ -23,7 +23,7 @@ li { list-style-type: none; word-spacing: 2px; }
     /* Style The Dropdown Button */
     .dropbtn {
         background-color: transparent;
-        color: black;
+        color: white;
         padding: 16px;
         font-size: 16px;
         border: none;
@@ -40,7 +40,7 @@ li { list-style-type: none; word-spacing: 2px; }
       .dropdown-content {
         display: none;
         position: absolute;
-        background-color: transparent;
+        background-color: black;
         min-width: 160px;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
         z-index: 1;
@@ -48,16 +48,22 @@ li { list-style-type: none; word-spacing: 2px; }
       
       /* Links inside the dropdown */
       .dropdown-content a {
-        color: black;
+        color: white;
         padding: 12px 16px;
         text-decoration: none;
         display: block;
       }
       
       /* Change color of dropdown links on hover */
-      .dropdown-content a:hover {background-color: transparent}
+      .dropdown-content a:hover {background-color: black}
       
       /* Show the dropdown menu on hover */
       .dropdown:hover .dropdown-content {
         display: block;
       }
+.header-div { background-color: black; text-transform: capitalize !important; } 
+.dropbtn { text-transform: capitalize; }
+.milo { font-size:20px; }
+.milo-one { text-decoration: none; }
+.header { background-color: black; }
+.black { background-color: black; }
