@@ -1,4 +1,4 @@
-css
+css original
 .main { ; background-color: red; margin-top: 20px; }
 .two { height: 200px; background-color: yellow; margin-bottom: 10px; }
 .three { height: 200px; background-color: blue; margin-bottom: 10px; }
@@ -6,7 +6,7 @@ css
 .five { height: 90px; background-color: green; margin-bottom: 10px; }
 .six { height: 90px; background-color: purple; margin-bottom: 10px; }
 
-html
+html original
 
 <div class="main">
     <div class="row one">
@@ -22,20 +22,36 @@ html
 </div>
     
 
-css
-.mail { ; background-color: red; margin-top: 20px; }
-.dom { height: 200px; background-color: yellow; margin-bottom: 10px; }
-.trem { height: 200px; background-color: blue; margin-bottom: 10px; }
-.chom { height: 200px; background-color: pink; margin-bottom: 10px; }
+css changes
+
+.mais { ; background-color: black; margin-top: 0px; }
+.first-header { height: 100px;  margin-bottom: 10px; }
+.second-header { height: 100px;  margin-bottom: 10px; }
+.third-header { height: 100px; ; margin-bottom: 10px; }
 
 
-html
+html changes
 
-<div class="mail">
-    <div class="row kom">
-        <div class="col-lg-4 col-md-4 col-sm-12 dom"></div>
-        <div class="col-lg-4 col-md-4 col-sm-6 trem"></div>
-        <div class="col-lg-4 col-md-4 col-sm-6 chom"></div>
+<div class="mais">
+    <div class="header kom">
+        <div class="col-lg-4 d-flex col-md-4 col-sm-12 header-div first-header"><h5 class="explore side-plz">explore</h5><input class="search side-plz black" placeholder="search..." type="search"></div>
+        <div class="col-lg-4 col-md-4 col-sm-6 justify-content-center d-flex header-div second-header"><img src="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" alt=""></div>
+        <div class="col-lg-4 col-md-4 col-sm-6 header-div third-header">
+            <!-- /// -->
+    <!-- /// -->
+        </div>
     </div>
 </div>
     
+
+html try
+<!-- header starts -->
+<div class="header kom">
+<div class="header-div d-flex first-header col-lg-4 col-md-4"><h5 class="explore side-plz">explore</h5><input class="search side-plz black" placeholder="search.." type="search"></div>
+<div class="header-div second-header d-flex justify-content-center col-lg-4 col-md-4"><img src="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg" alt=""></div>    
+<div class="header-div third-header col-lg-4 col-md-4">
+    <!-- /// -->
+    <!-- /// -->
+</div>
+</div>           
+<!-- header ended -->

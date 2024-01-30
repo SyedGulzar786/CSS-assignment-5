@@ -84,12 +84,12 @@ li { list-style-type: none; word-spacing: 2px; }
 @media (max-width: 768px) {
     .threats , .rowdy
      { display: none; }
+     .first-header { display: block; }
 }
 @media (max-width: 1050px) {
   .threats , .rowdy
    { display: none; }
 }
-
 .main { margin-top: 20px; }
 .two { height: 400px; }
 .three { height: 400px; }
