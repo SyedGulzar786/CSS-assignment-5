@@ -93,5 +93,8 @@ li { list-style-type: none; word-spacing: 2px; }
 .f-f-c-s-a { background-color: red; }
 .s-f-c-s-a { background-color: blue; }
 .leravel { background-color: yellow; height: 47%; }
-.phind { height: 370px; }
-.f-c-s { background-color: aqua; justify-content: space-evenly; }
+.phind { height: 400px; }
+.f-c-s { margin-top: 15px; display: flex; justify-content: space-evenly; }
+.ilium img { width: 100%; height: 100%; }
+.ishium img { width: 100%; height: 100%; }
+.leravel img { width: 100%; height: 100%; }
