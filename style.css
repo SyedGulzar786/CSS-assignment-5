@@ -75,9 +75,23 @@ li { list-style-type: none; word-spacing: 2px; }
 .big-bang { font-size: 80px; font-weight: 700; }
 .small-bang { font-size: 17px; font-weight: 400 }
 .lunka { margin-top: 20px !important; color: white; text-decoration: none; font-size: 26px; background-color: #af2e29 ; padding: 10px 20px; border-radius: 4px; border: 1px solid #af2e29; }
-.bg-threat-one {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 80px; width: 20%px; }
+.bg-threat-one {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 80px; width: 20%; }
 .bg-threat-two {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 480px; width: 20%; }
 .bg-threat-three {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 880px; width: 20%; }
 .navigaticon { height: 20px; width: 20px; color: #af2e29 !important; background-color: #af2e29; border-radius: 50%; position: absolute; }
 .rowdy > p { font-weight: 400; font-size: 16px;  }
 .second-header > img { width: 60px; height: 60px; }
+@media (max-width: 768px) {
+    .threats , .rowdy
+     { display: none; }
+}
+@media (max-width: 1050px) {
+  .threats , .rowdy
+   { display: none; }
+}
+.a-c-s { margin-top: 10px; }
+.f-f-c-s-a { background-color: red; }
+.s-f-c-s-a { background-color: blue; }
+.leravel { background-color: yellow; height: 47%; }
+.phind { height: 370px; }
+.f-c-s { background-color: aqua; justify-content: space-evenly; }
