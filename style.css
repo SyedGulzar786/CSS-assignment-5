@@ -1,7 +1,8 @@
 .prnt-footer {background-color: black; display: flex; justify-content: center; }
 .footer { background-color: black;   }
 .first-content { display:flex; }
-* { color: white; }
+* { text-transform: capitalize; }
+.mais{ color: white;}
 .dcr {  text-align: left; margin-top: 10px; word-spacing: 2px; }
 .p-2 { text-decoration: none; color: white;  }
 .dct { margin-top: 0px !important; }
@@ -62,38 +63,45 @@ li { list-style-type: none; word-spacing: 2px; }
         display: block;
       }
 .header-div { background-color: black; text-transform: capitalize !important; } 
-.header { text-transform: capitalize;}
+.header { text-transform: capitalize; height: 100px;}
 .dropbtn { text-transform: capitalize; }
 .milo { font-size:20px; }
 .milo-one { text-decoration: none; }
 .header { background-color: black; }
 .black { background-color: black; box-shadow: 0px !important; border: 1px solid rgba(255, 255, 255, 0.3) !important; width: 200px; padding-left: 4px !important;}
 .side-plz { margin-left: 30px; }
-.bg-img { background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/clps-im-1-nova-c-render-moon.png?resize=2000,1125); width: 100%; height: 730px; } 
-.black-ground { width: 100%; height: 730px; background-color: black; position: absolute; opacity: 0.6;  }
-.bg-text { color: white; text-align: ;eft; position: absolute; top: 250px; left: 80px; width: 800px;  }  
+.bg-img { background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/clps-im-1-nova-c-render-moon.png?resize=2000,1125); background-size: 100% 100%;  width: 100%; height: 690px; border-image: fill 0 linear-gradient(#0003, #000); }
+.bg-text { color: white; text-align: left; padding: 20px; padding-top: 60px; }   
 .big-bang { font-size: 80px; font-weight: 700; }
-.small-bang { font-size: 17px; font-weight: 400 }
+.small-bang { font-size: 17px; font-weight: 400; }
 .lunka { margin-top: 20px !important; color: white; text-decoration: none; font-size: 26px; background-color: #af2e29 ; padding: 10px 20px; border-radius: 4px; border: 1px solid #af2e29; }
-.bg-threat-one {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 80px; width: 20%; }
-.bg-threat-two {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 480px; width: 20%; }
-.bg-threat-three {  color: white; text-align: left; position: absolute; font-size: 21px; top: 680px; left: 880px; width: 20%; }
 .navigaticon { height: 20px; width: 20px; color: #af2e29 !important; background-color: #af2e29; border-radius: 50%; position: absolute; }
 .rowdy > p { font-weight: 400; font-size: 16px;  }
+.rowdy { width: 28% !important; }
 .second-header > img { width: 60px; height: 60px; }
-@media (max-width: 768px) {
-    .threats , .rowdy
-     { display: none; }
-     .first-header { display: block; }
-}
-@media (max-width: 1050px) {
+.threats { width:60%; color: white; position: relative; top: 80px; padding: 0px 12px; text-align: left; font-size: 21px;}
+@media (max-width: 1200px) {
   .threats , .rowdy
    { display: none; }
 }
-.main { margin-top: 20px; }
-.two { height: 400px; }
-.three { height: 400px; }
-.four { height: 400px; }
-.five { height: 47%; }
-.six { height: 47%; }
+.two { height: 460px; margin-bottom: 10px; margin-right: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/ksc-20231204-ph-kls01-0027large.jpg?resize=683,1024); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000);  }
+.three { height: 460px; margin-bottom: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/crew-9.jpg?resize=2000,1600); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
+.four { height: 460px; margin-bottom: 10px; }
+.five { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/1-pia26272-coronagraph-instrument-exposed.jpg?resize=768,432); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
+.six { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/fsp-overview-image-examples-crop.png?resize=768,441); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
 img { height: 100%; width: 100%; }
+.ikum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.dikum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.tikum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.chokum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.ikum-bot { position: relative; top: 295px; }
+.dikum-bot { position: relative; top: 270px; }
+.tikum-bot { position: relative; top: 40px; }
+.chokum-bot { position: relative; top: 40px; }
+.hai {font-weight:300 !important; font-size: 13px; letter-spacing: 3px; margin-bottom: 0px;}
+.veeto { font-size: 25px; }
+.habbo { color: black ; width: 77%;}
+.nabbo { font-size: 50px; font-weight: 600; display: flex; align-items: center; justify-content: flex-start; height: 200px; width: 50%; }
+.shabbo { display: flex; align-items: center; justify-content: flex-end; height: 200px; width: 50%; }
+.shabbo > a { font-size: 25px; font-weight: 600; color: #000; }
+
