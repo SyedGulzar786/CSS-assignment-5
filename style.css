@@ -91,6 +91,7 @@ li { list-style-type: none; word-spacing: 2px; }
 }
 @media only screen and (max-width: 850px) {
   .album { height: 400px; }
+  .puri-frame { height: 400px !important; }
 }
 .two { height: 460px; margin-bottom: 10px; margin-right: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/ksc-20231204-ph-kls01-0027large.jpg?resize=683,1024); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000);  }
 .three { height: 460px; margin-bottom: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/crew-9.jpg?resize=2000,1600); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
@@ -129,6 +130,6 @@ img { height: 100%; width: 100%; }
 .aslam { font-size: 18px; }
 .aslama { text-decoration: none; color: white;}
 iframe { width:100%; height: 100%; }
-.puri-frame { height: 400px; width: 893px; }
+.puri-frame { height: 500px; width: 893px; }
 .explore { width: 70px; }
 
