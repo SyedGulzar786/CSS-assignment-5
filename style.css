@@ -75,7 +75,7 @@ li { list-style-type: none; word-spacing: 2px; }
 .big-bang { font-size: 80px; font-weight: 700; }
 .small-bang { font-size: 17px; font-weight: 400; }
 .lunka { margin-top: 20px !important; color: white; text-decoration: none; font-size: 26px; background-color: #af2e29 ; padding: 10px 20px; border-radius: 4px; border: 1px solid #af2e29; }
-.navigaticon { height: 20px; width: 20px; color: #af2e29 !important; background-color: #af2e29; border-radius: 50%; position: absolute; }
+.navigaticon { height: 16px; width: 16px; color: #af2e29 !important; background-color: #af2e29; border-radius: 50%; position: absolute; }
 .rowdy > p { font-weight: 400; font-size: 16px;  }
 .rowdy { width: 28% !important; }
 .second-header > img { width: 60px; height: 60px; }
@@ -100,8 +100,14 @@ img { height: 100%; width: 100%; }
 .chokum-bot { position: relative; top: 40px; }
 .hai {font-weight:300 !important; font-size: 13px; letter-spacing: 3px; margin-bottom: 0px;}
 .veeto { font-size: 25px; }
-.habbo { color: black ; width: 77%;}
+.habbo,.gana { color: black ; width: 77%; }
 .nabbo { font-size: 50px; font-weight: 600; display: flex; align-items: center; justify-content: flex-start; height: 200px; width: 50%; }
 .shabbo { display: flex; align-items: center; justify-content: flex-end; height: 200px; width: 50%; }
 .shabbo > a { font-size: 25px; font-weight: 600; color: #000; }
-
+.mayyuri { font-size: 16px; font-weight: 700; margin: 0px 0px 0px 3px; }
+.gana-img > img { border-radius: 50%; width: 100%; height: 100%; }
+.gana-img  { height: 90px; width: 90px; padding: 10px; margin-top: auto; margin-bottom: auto; }
+.khai { font-weight:400 !important; font-size: 12px; letter-spacing: 3px; margin: 0px 0px 0px 3px; }
+.album { margin: 15px 0px; }
+.gullu { text-decoration: none; color: #000; }
+.hatja { padding-left: 0px !important; padding-right: 0px !important; } 
