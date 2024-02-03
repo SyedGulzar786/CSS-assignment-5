@@ -55,3 +55,145 @@ html try
 </div>
 </div>           
 <!-- header ended -->
+
+explore
+side-plz
+search 
+black
+
+css and html of assignment
+.................................................................................................................................................................................
+
+
+.................................................................................................................................................................................
+
+.prnt-footer {background-color: black; display: flex; justify-content: center; }
+.footer { background-color: black;   }
+.first-content { display:flex; }
+* { text-transform: capitalize; width: 100%; }
+.mais{ color: white;}
+.dcr {  text-align: left; margin-top: 10px; word-spacing: 2px; }
+.p-2 { text-decoration: none; color: white;  }
+.dct { margin-top: 0px !important; }
+.c-1 { margin-top: 30px ; }
+.c-2 { margin-top: 40px; }
+.c-2 li { margin-bottom: 10px; list-style-type: none;}
+.diffr { margin-top: 130px !important; }
+.icons { display: flex; }
+.dft { position: relative; bottom: 80px; left: 20px; }
+.vito { width: 30px; height: 30px; margin-right: 10px; }
+.main-icons { display: flex; }
+.icons { width: 30px; background-color: aliceblue; position: relative; bottom: 60px; left: 20px; margin-right: 10px; border-radius: 4px; }
+.second-content > ul { display: flex; }
+li { list-style-type: none; word-spacing: 2px; }
+.second-content > ul > li { margin-right: 22px; }
+.second-content { padding: 10px 0px; }
+.third-content { margin-bottom: 30px; }
+.nasa-img { width: 90px; margin-top: 50px; }
+    /* Style The Dropdown Button */
+    .dropbtn {
+        background-color: transparent;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+      }
+      
+      /* The container <div> - needed to position the dropdown content */
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      
+      /* Dropdown Content (Hidden by Default) */
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: black;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+      
+      /* Links inside the dropdown */
+      .dropdown-content a {
+        color: white;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+      }
+      
+      /* Change color of dropdown links on hover */
+      .dropdown-content a:hover {background-color: black}
+      
+      /* Show the dropdown menu on hover */
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+.header-div { background-color: black; text-transform: capitalize !important; } 
+.header { text-transform: capitalize; height: 100px; width: 100% !important; }
+.nanne { width: 100%; }
+.dropbtn { text-transform: capitalize; }
+.milo { font-size:20px; }
+.milo-one { text-decoration: none; }
+.header { background-color: black; }
+.black { background-color: black; box-shadow: 0px !important; border: 1px solid rgba(255, 255, 255, 0.3) !important; width: 200px; padding-left: 4px !important;}
+.side-plz { margin-left: 30px !important; }
+.bg-img { background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/clps-im-1-nova-c-render-moon.png?resize=2000,1125); background-size: 100% 100%;  width: 100%; height: 690px; border-image: fill 0 linear-gradient(#0003, #000); }
+.bg-text { color: white; text-align: left; padding: 20px; padding-top: 60px; }   
+.big-bang { font-size: 80px; font-weight: 700; }
+.small-bang { font-size: 17px; font-weight: 400; }
+.lunka { margin-top: 20px !important; color: white; text-decoration: none; font-size: 26px; background-color: #af2e29 ; padding: 10px 20px; border-radius: 4px; border: 1px solid #af2e29; }
+.navigaticon { height: 16px; width: 16px; color: #af2e29 !important; background-color: #af2e29; border-radius: 50%; position: absolute; margin-left: 9px; }
+.rowdy > p { font-weight: 400; font-size: 16px;  }
+.rowdy { width: 28% !important; }
+.second-header > img { width: 60px; height: 60px; }
+.threats { width:60%; color: white; position: relative; top: 80px; padding: 0px 12px; text-align: left; font-size: 21px;}
+@media (max-width: 1200px) {
+  .threats , .rowdy
+   { display: none; }
+}
+@media only screen and (max-width: 1000px) {
+   .head-teacher{ height: 790px !important; }
+  .first-pic-slide { margin-top: 38px; }
+}
+.two { height: 460px; margin-bottom: 10px; margin-right: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/ksc-20231204-ph-kls01-0027large.jpg?resize=683,1024); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000);  }
+.three { height: 460px; margin-bottom: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/crew-9.jpg?resize=2000,1600); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
+.four { height: 460px; margin-bottom: 10px; }
+.five { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/1-pia26272-coronagraph-instrument-exposed.jpg?resize=768,432); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
+.six { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/fsp-overview-image-examples-crop.png?resize=768,441); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
+img { height: 100%; width: 100%; }
+.ikum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.dikum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.tikum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.chokum-top { position: relative; top: 0px; padding-left: 10px; font-weight:300 !important; letter-spacing: 3px; }
+.ikum-bot { position: relative; top: 295px; }
+.dikum-bot { position: relative; top: 270px; }
+.tikum-bot { position: relative; top: 40px; }
+.chokum-bot { position: relative; top: 40px; }
+.hai {font-weight:300 !important; font-size: 13px; letter-spacing: 3px; margin-bottom: 0px;}
+.veeto { font-size: 25px; }
+.habbo,.gana { color: black ; width: 77%; height: 200px; }
+.nabbo { font-size: 50px; font-weight: 600; display: flex; align-items: center; justify-content: flex-start; width: 50%; }
+.shabbo { display: flex; align-items: center; justify-content: flex-end; width: 50% !important; }
+.shabbo > a { font-size: 25px; font-weight: 600; color: #000; width: 250px; }
+.mayyuri { font-size: 16px; font-weight: 700; margin: 0px 0px 0px 3px; }
+.gana-img > img { border-radius: 50%; width: 70px; height: 70px; }
+.gana-img  { height: 90px; width: 90px; padding: 10px; margin-top: auto; margin-bottom: auto; }
+.khai { font-weight:400 !important; font-size: 12px; letter-spacing: 3px; margin: 0px 0px 0px 3px; }
+.album { margin: 15px 0px; }
+.gullu { text-decoration: none; color: #000; }
+.hatja { padding-left: 0px !important; padding-right: 0px !important; } 
+.principal { background-color: black;}
+.head-teacher { height:660PX; }
+.miss {color: white;}
+.m-assistant { padding-left: 50PX; padding-right: 95px; text-align: left;}
+.jhai { font-size: 13px !important; margin-bottom: 10px; }
+.bagga { margin: 20px; }
+.anthem { font-size: 14px; }
+.aslam { font-size: 18px; }
+.aslama { text-decoration: none; color: white;}
+iframe { width:100%; height: 100%; }
+.puri-frame { height: 400px; width: 893px; }
+.explore { width: 70px; }
