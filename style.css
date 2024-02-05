@@ -146,16 +146,22 @@ iframe { width:100%; height: 100%; }
 .bachi { width: 570px; height: 100%; }
 .khayal { width: 800px; }
 .soch { height: 540px; text-decoration: none; color: #000; padding-left: 10px; }
-.second-big-slide { background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/pia26112orig.jpg);
-                   
+.second-big-slide { background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/pia26112orig.jpg); 
                    background-size: 100% ;
                  height: 840px; border-image: fill 0 linear-gradient(#0003, #000);   }
+.third-big-slide { background-image: url(https://www.nasa.gov/wp-content/uploads/2023/01/webb-tarantula-neb.png?resize=1536,1199); 
+                  background-size: 100%; }
 .zip { color: white; } 
 .barha { font-size: 90px; }
 .chhota { font-size: 20px; }
-.darmiyani { font-size: 25px; }    
+.darmiyani { font-size: 25px; }   
+.barha-a { font-size: 70px; line-height: 70px; }
+.chhota-a { font-size: 18px; font-weight: 1500px !important; word-spacing: -1px; }
+.chhota-a-a { font-size: 18px; font-weight: 1000px !important; word-spacing: -1px;  }
+.darmiyani-a { font-size: 24px; }   
 .z-two { height: 460px; margin-bottom: 10px; margin-right: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/02/moghbeli-and-ohara-downlink-feb.jpg?resize=768,512); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000);  }
 .z-three { height: 460px; margin-bottom: 10px; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/02/53481198624-c7550a47be-k-1.jpg?resize=768,431); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
 .z-four { height: 460px; margin-bottom: 10px; }
 .z-five { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2023/09/nasa-meaball-logo-1.png?resize=768,432); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
-.z-six { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/crew-9.jpg?resize=768,614); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }          
+.z-six { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/crew-9.jpg?resize=768,614); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
+.mm-mm { margin-top: 90px;}          
