@@ -1,4 +1,4 @@
-.prnt-footer {background-color: black; display: flex; justify-content: center; }
+.prnt-footer {background-color: black; display: flex; justify-content: center; color: white; }
 .footer { background-color: black;   }
 .first-content { display:flex; }
 * { text-transform: capitalize; width: 100%; }
@@ -150,7 +150,7 @@ iframe { width:100%; height: 100%; }
                    background-size: 100% ;
                  height: 840px; border-image: fill 0 linear-gradient(#0003, #000);   }
 .third-big-slide { background-image: url(https://www.nasa.gov/wp-content/uploads/2023/01/webb-tarantula-neb.png?resize=1536,1199); 
-                  background-size: 100%; }
+                  background-size: 100%; margin-bottom: 10px; }
 .zip { color: white; } 
 .barha { font-size: 90px; }
 .chhota { font-size: 20px; }
@@ -164,4 +164,12 @@ iframe { width:100%; height: 100%; }
 .z-four { height: 460px; margin-bottom: 10px; }
 .z-five { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2023/09/nasa-meaball-logo-1.png?resize=768,432); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
 .z-six { height: 48%; background-image: url(https://www.nasa.gov/wp-content/uploads/2024/01/crew-9.jpg?resize=768,614); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
-.mm-mm { margin-top: 90px;}          
+.mm-mm { margin-top: 90px;}
+.boriwali { width: 100%; }
+.g-society { width: 80%; }
+.jetha-bhai { height: 700px; width: 23.8%; background-image: url(https://www.nasa.gov/wp-content/uploads/2022/08/jsc2022e046413_orig.jpg?resize=1536,864); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }
+.haathi-bhai { height: 700px; width: 23.8%; background-image: url(https://www.nasa.gov/wp-content/uploads/2021/03/topic-humans-in-space.jpg); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }       
+.sodhi-bhai { height: 700px; width: 23.8%; background-image: url(https://www.nasa.gov/wp-content/uploads/2023/03/ksc-392c-5029_fr-036.jpg); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }       
+.mehta-bhai { height: 700px; width: 23.8%; background-image: url(https://www.nasa.gov/wp-content/uploads/2023/04/earth-at-night-north-america-east-coast.jpg?resize=1536,864); background-size: 100% 100%; border-image: fill 0 linear-gradient(#0003, #000); }       
+.tappu { color: white; margin-bottom: 20px; margin-left: 10px; font-size: 20px !important; }
+.anjali { margin: 10px 0px 10px 10px; }
